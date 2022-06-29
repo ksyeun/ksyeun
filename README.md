@@ -21,11 +21,11 @@
 
 ## COWORK TOOLS
 <p align = "left">
-    <img src ="https://img.shields.io/badge/-Figma-E2D2D2"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Trello-E3E2B4"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Slack-A2B59F"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Github-BFC8D7"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Notion-EEB8B8"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Figma-F7EAE2?style=flat-square&logo=Figma&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Trello-EADB80?style=flat-square&logo=Trello&logoColor=white"></a>&nbsp
+     <img src ="https://img.shields.io/badge/-Slack-AEDDEF?style=flat-square&logo=Slack&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Figma-E1B4D3?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp
+        <img src ="https://img.shields.io/badge/-Notion-CFDD8E?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
 </p>
 
 
