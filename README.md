@@ -27,7 +27,7 @@
     <img src ="https://img.shields.io/badge/-Figma-F8DAE2?style=flat-square&logo=Figma&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Trello-EADB80?style=flat-square&logo=Trello&logoColor=white"></a>&nbsp
      <img src ="https://img.shields.io/badge/-Slack-AEDDEF?style=flat-square&logo=Slack&logoColor=white"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Figma-E1B4D3?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-GitHub-E1B4D3?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Notion-CFDD8E?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Google Drive-c7D6DB?style=flat-square&logo=Google Drive&logoColor=white"></a>&nbsp
 </p>
