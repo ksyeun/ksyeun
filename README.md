@@ -9,12 +9,14 @@
 
 ## ⭐ SKILLS
 <p align = "left">
-    <img src ="https://img.shields.io/badge/-C-E2D2D2?style=flat-square&logo=C&logoColor=white"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-C++-E3E2B4?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Python-A2B59F?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-C-C7D6DB?style=flat-square&logo=C&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-C++-83B1C9?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Python-6ECEDA?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Java-ffd0a6?style=flat-square&logo=Java&logoColor=white"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-ReactNative-EEB8B8?style=flat-square&logo=React&logoColor=white"></a>&nbsp
-     <img src ="https://img.shields.io/badge/-JavaScript-E5BFBC?style=flat-square&logo=JavaScript&logoColor=white"></a>&nbsp <br/> 
+    <img src ="https://img.shields.io/badge/-ReactNative-AEDDEF?style=flat-square&logo=React&logoColor=white"></a>&nbsp
+        <img src ="https://img.shields.io/badge/-Anaconda-A2B59F?style=flat-square&logo=Anaconda&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-OpenCV-B57FB3?style=flat-square&logo=OpenCV&logoColor=white"></a>&nbsp
+     <img src ="https://img.shields.io/badge/-JavaScript-EAD880?style=flat-square&logo=JavaScript&logoColor=white"></a>&nbsp <br/> 
     <img src ="https://img.shields.io/badge/-Visual Studio Code-BFC8D7?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Docker-d5e1df?style=flat-square&logo=Docker&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Autodesk-E9CEB9?style=flat-square&logo=Autodesk&logoColor=white"></a>&nbsp
@@ -22,7 +24,7 @@
 
 ## ⭐ COWORK TOOLS
 <p align = "left">
-    <img src ="https://img.shields.io/badge/-Figma-F7EAE2?style=flat-square&logo=Figma&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Figma-F8DAE2?style=flat-square&logo=Figma&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Trello-EADB80?style=flat-square&logo=Trello&logoColor=white"></a>&nbsp
      <img src ="https://img.shields.io/badge/-Slack-AEDDEF?style=flat-square&logo=Slack&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Figma-E1B4D3?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp
