@@ -12,9 +12,12 @@
     <img src ="https://img.shields.io/badge/-C-E2D2D2?style=flat-square&logo=C&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-C++-E3E2B4?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Python-A2B59F?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-JAVA-BFC8D7?style=flat-square&logo=Java&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Java-ffd0a6?style=flat-square&logo=Java&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-ReactNative-EEB8B8?style=flat-square&logo=React&logoColor=white"></a>&nbsp
+     <img src ="https://img.shields.io/badge/-JavaScript-E5BFBC?style=flat-square&logo=JavaScript&logoColor=white"></a>&nbsp <br/> 
     <img src ="https://img.shields.io/badge/-Visual Studio Code-BFC8D7?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Docker-d5e1df?style=flat-square&logo=Docker&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Autodesk-E9CEB9?style=flat-square&logo=Autodesk&logoColor=white"></a>&nbsp
 </p> <br/> 
 
 ## ⭐ COWORK TOOLS
@@ -23,7 +26,8 @@
     <img src ="https://img.shields.io/badge/-Trello-EADB80?style=flat-square&logo=Trello&logoColor=white"></a>&nbsp
      <img src ="https://img.shields.io/badge/-Slack-AEDDEF?style=flat-square&logo=Slack&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Figma-E1B4D3?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp
-        <img src ="https://img.shields.io/badge/-Notion-CFDD8E?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Notion-CFDD8E?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Google Drive-c7D6DB?style=flat-square&logo=Google Drive&logoColor=white"></a>&nbsp
 </p>
  <br/>
  
