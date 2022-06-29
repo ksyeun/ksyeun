@@ -15,7 +15,7 @@
     <img src ="https://img.shields.io/badge/-ReactNative-EEB8B8"></a>&nbsp
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyeun&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyeun&layout=compact)
 
 
 
