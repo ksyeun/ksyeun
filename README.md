@@ -15,10 +15,9 @@
     <img src ="https://img.shields.io/badge/-ReactNative-EEB8B8"></a>&nbsp
 </p>
 
-<p align = "center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyeun&layout=compact)
 
-</p>
 
 
 
