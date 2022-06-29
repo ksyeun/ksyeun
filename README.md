@@ -2,12 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C4DEEE&height=300&section=header&StrokeWidth=2&text=Seoyun💫&fontColor=78AAC3&fontSize=70&fontAlign=75&animation=fadeIn)
 
-## ABOUT ME
-⚙ Major: SSU Mechanical Engineering
+## ⭐ ABOUT ME
+⚙ Major: SSU Mechanical Engineering 
+
 💻 Double major: SSU AI Convergence 
 
 
-## SKILLS
+
+## ⭐ SKILLS
 <p align = "left">
     <img src ="https://img.shields.io/badge/-C-E2D2D2?style=flat-square&logo=C&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-C++-E3E2B4?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp
@@ -19,7 +21,7 @@
 </p>
 
 
-## COWORK TOOLS
+## ⭐ COWORK TOOLS
 <p align = "left">
     <img src ="https://img.shields.io/badge/-Figma-F7EAE2?style=flat-square&logo=Figma&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Trello-EADB80?style=flat-square&logo=Trello&logoColor=white"></a>&nbsp
@@ -31,7 +33,8 @@
 
 
 
-
+## ⭐ How to reach me
+* 📧: syclair0912@gmail.com
 
 
 
