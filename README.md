@@ -7,7 +7,7 @@
 
 - 🔭 Tech that I've used at least once
 <p align = "center">
-    <img src ="https://img.shields.io/badge/-C-FCB7D0?style=flat--square&logo=C&logoColor=White"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-C-DCCBED"></a>&nbsp
     <img src ="https://img.shields.io/badge/-C++-DCCBED"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Python-9979C1"></a>&nbsp
 </p>
