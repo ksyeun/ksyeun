@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C4DEEE&height=300&section=header&StrokeWidth=2&text=Seoyun💫&fontColor=78AAC3&fontSize=70&fontAlign=75&animation=fadeIn)
 
 ## ABOUT ME
-* Major: SSU Mechanical Engineering
-* Double major: SSU AI Convergence 
+⚙ Major: SSU Mechanical Engineering
+💻 Double major: SSU AI Convergence 
 
 
 ## SKILLS
