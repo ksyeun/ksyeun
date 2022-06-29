@@ -9,7 +9,7 @@
 <p align = "center"
     <img src ="https://img.shields.io/badge/-C++-DCCBED"></a>&nbsp
     <img src ="https://img.shields.io/badge/-C-FCB7D0"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-Pyhon-9979C1"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-Python-9979C1"></a>&nbsp
 </p>
 <!--
 **ksyeun/ksyeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
