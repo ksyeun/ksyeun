@@ -10,7 +10,7 @@
 ## SKILLS
 <p align = "left">
     <img src ="https://img.shields.io/badge/-C-E2D2D2?style=flat-square&logo=C&logoColor=white"></a>&nbsp
-    <img src ="https://img.shields.io/badge/-C++-E3E2B4?style=flat-square&logo=%2B%2B&logoColor=white"></a>&nbsp
+    <img src ="https://img.shields.io/badge/-C++-E3E2B4?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-Python-A2B59F?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-JAVA-BFC8D7?style=flat-square&logo=Java&logoColor=white"></a>&nbsp
     <img src ="https://img.shields.io/badge/-ReactNative-EEB8B8?style=flat-square&logo=React&logoColor=white"></a>&nbsp
