@@ -6,7 +6,7 @@
 
 
 
-## Platforms & Languages
+## SKILLS
 <p align = "left">
     <img src ="https://img.shields.io/badge/-C-E2D2D2"></a>&nbsp
     <img src ="https://img.shields.io/badge/-C++-E3E2B4"></a>&nbsp
@@ -15,9 +15,10 @@
     <img src ="https://img.shields.io/badge/-ReactNative-EEB8B8"></a>&nbsp
 </p>
 
+<p align = "center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyeun&layout=compact)
 
-
+</p>
 
 
 
