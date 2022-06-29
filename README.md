@@ -5,7 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C4DEEE&height=300&section=header&StrokeWidth=2&text=Seoyun💫&fontColor=78AAC3&fontSize=70&fontAlign=75&animation=fadeIn)
 
-<img src="https://img.shields.io/badge/C-#DCCBED?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 
 <!--
